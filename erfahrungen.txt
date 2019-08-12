@@ -1,0 +1,15 @@
+hey Tobias :)
+zuerst Danke Dir für die Korrektur. Also ich hab in meiner Matrix wchar verwendet ich dachte es wäre
+schöner wenn ich quasi ein anderes shape verwende.
+wenn das bei dir nicht geklappt musst du entweder mir schreiben oder die virable zu normal string änderen.
+der Projekt ist richtig lange und wenn du irgendwas nicht verstehst schreibe mir ich kann dir sagen
+was es damit gemaint wurde.
+unter --help kannst du schauen was ich die shourtkey sind.
+ich habe die zusäzliche Aufgabe gemacht die fand ich Ok.
+auch hab noch die evualtion gemacht.
+die Fonts die ich verwendet habe sind (Noto Sans Kaithi, LinearA)
+ich hab das Font auf svn hochgeladen.
+
+mein Handynummer ist 015759027016 falls du irgendwas brauchst per whatsapp geht schnell.
+ LG
+ waleed
