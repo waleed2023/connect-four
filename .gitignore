@@ -1,0 +1,13 @@
+# Object files
+*.o
+
+# Compiled executables
+/4
+/readGridTest
+/saveGridTest
+/vier_gewinnt_Test
+/vier_gewinnt_ki_Test
+/save
+
+# Editor settings
+.vscode/
